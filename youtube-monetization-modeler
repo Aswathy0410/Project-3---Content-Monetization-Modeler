@@ -1,0 +1,8 @@
+youtube-monetization-modeler/
+├── README.md                  # Project documentation
+├── requirements.txt           # Dependencies
+├── main_analysis.py           # Your main Jupyter/notebook code (fixed version)
+├── app.py                     # Streamlit web app
+├── data/                      # (Optional: your CSV)
+│   └── youtube_ad_revenue_dataset.csv
+└── .gitignore                 # Git ignore file
